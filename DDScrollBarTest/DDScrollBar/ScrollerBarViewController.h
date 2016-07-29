@@ -48,9 +48,6 @@
 @property(nonatomic,weak) id<UIScrollViewDelegate> delegate;
 
 
-
-
-
 @end
 
 
